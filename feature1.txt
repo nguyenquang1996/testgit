@@ -1,1 +1,2 @@
 sua file feature1 cua nhanh develop
+update len file feature1 tu nhanh feature -> chi nhanh nay moi thay duoc 
